@@ -47,19 +47,22 @@ Copy the *Internet Safety Pledge* text below into an email message and send it t
 # Coding Project/Session Instructions
 1. Go to https://repl.it/.
 2. Create an account using the **Sign up** button or log in to your account using the **Log in** button.
-2. Click on the **+ New repl** button.
-3. Choose the **Import from GitHub** tab at the top of the pop-up window.
+2. Click on the **Import code or design** button.
+3. Choose the **GitHub** button.
 4. Copy and paste *yelirkram/t255-python* into the text box and click the **Import from GitHub** button.
 5. Wait a moment for repl.it to import the code from the GitHub repository.
 6. Explore the code and comments.
-7. Run the code to see how the program operates.
-8. Attempt to make suggested changes in the comments at the bottom.
-9. Repeat steps 3 - 9 for the **Java** *yelirkram/t255-java*, and **Julia** *yelirkram/t255-julia* projects.
+7. In the AI box, ask it to run your program. This will set up the environment required to run the code you're looking at.
+8. Click the green > button to run the code to see how the program operates.
+9. Click the Console tab to interact with your program.
+10. Attempt to make suggested changes in the comments at the bottom.
+11. Repeat steps 3 - 9 for the **Java** *yelirkram/t255-java*, and **Julia** *yelirkram/t255-julia* projects.
 
 ##  Coding Project Troubleshooting
-https://stackoverflow.com/
+If something breaks, ask the AI assistant for help. 
+If something doesn't make sense to you, ask AI to explain it to you. 
 
-Stack Overflow helps you get answers to your toughest coding questions. As you go through your programming assignments this should be your first outside resource. Enter your questions or error messages into the search to find solutions. This is a very important resource for programmers.
+Remember that all AI has been trained on content from the internet. If you're not satisfied with what you're getting from AI, other trustworthy sources of information are redit.com and stackoverflow.com.
 
 ---
 
@@ -95,3 +98,7 @@ Do you want to learn more about programming? Here are some resources to continue
 * RStudio Education: https://education.rstudio.com/
 
 * Repl.it Tutorials: https://repl.it/talk/learn
+
+* Capture the Flag exercises: https://www.youtube.com/watch?v=IxLzldAANNg
+
+* What does "Safety" mean in programming? Research these to find out what could happen if you're not programming safely: stuxnet, log4j, wannacry
